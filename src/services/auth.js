@@ -1,17 +1,17 @@
-
 export async function login(username, password) {
 
   try {
 
     const response = await fetch('https://my-json-server.typicode.com/gilsonroberto/database/users');
-    const users = await response.json();
 
+    const users = await response.json();
     
     const user = users.find(user => user.email === username && user.password === password);
 
     if (user) {
-
+      
       localStorage.setItem('user', JSON.stringify(user));
+      document.dispatchEvent(new Event('userLoggedIn'));
       return true;
     } else {
 
@@ -25,7 +25,6 @@ export async function login(username, password) {
 
 
 export function isAuthenticated() {
-
   return localStorage.getItem('user') !== null;
 }
 

@@ -55,7 +55,7 @@ if (isAuthenticated()) {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 65vh;
   }
 
   .login-form {
