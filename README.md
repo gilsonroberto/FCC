@@ -1,3 +1,9 @@
+# 💻 Tecnologias utilizadas:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gilsonroberto&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## Teste Para Desenvolvedor Front End 
 
 Este projeto consiste em um teste front-end destinado aos interessados em uma vaga de Front End. O teste será dividido em três etapas:
@@ -116,5 +122,3 @@ Para logar no projeto, utilize as seguintes credenciais:
 ]
 }
 
-# 💻 Tecologias utilizadas:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
