@@ -111,6 +111,9 @@ yarn lint
 ### Observação:
 
 Para logar no projeto, utilize as seguintes credenciais:
+```
+https://my-json-server.typicode.com/gilsonroberto/database/db
+```
 
 ```json
 {
