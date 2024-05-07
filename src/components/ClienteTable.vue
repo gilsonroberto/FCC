@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="table-container">
     <table>
       <thead>
         <tr>
@@ -103,6 +103,12 @@ export default {
 </script>
 
 <style scoped>
+
+.table-container {
+  overflow-x: auto; /* Adiciona barra de rolagem horizontal quando necessário */
+  max-width: 100%; /* Define a largura máxima do contêiner */
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
